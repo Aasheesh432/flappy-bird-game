@@ -14,7 +14,7 @@ Navigate to the folder and install the requirements using pip
 ```
 
 ## Authors
-
+- [@Aasheesh432](https://github.com/Aasheesh432)
 - [@shiroyasha9](https://github.com/shiroyasha9)
 - [@sanjana2417](https://github.com/sanjana2417)
 
